@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920746545209",
+    "project_id": "adddatafregment",
+    "storage_bucket": "adddatafregment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920746545209:android:578422fa92262c06c3fde8",
+        "android_client_info": {
+          "package_name": "com.example.adddatafregment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3h9yt8yXMWa-LlXsy8Lv4rz0G0Oy8HXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
